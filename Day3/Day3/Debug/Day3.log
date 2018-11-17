@@ -1,0 +1,4 @@
+﻿  dm_03getKeyByValue.c
+c:\users\高杰\source\repos\day3\day3\dm_03getkeybyvalue.c(15): warning C4013: “isspace”未定义；假设外部返回 int
+c:\users\高杰\source\repos\day3\day3\dm_03getkeybyvalue.c(68): warning C4020: “getKeyByValue”: 实参太多
+  Day3.vcxproj -> C:\Users\高杰\source\repos\Day3\Debug\Day3.exe

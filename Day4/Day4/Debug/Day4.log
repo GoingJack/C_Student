@@ -1,0 +1,5 @@
+﻿  dm04_指针数组的应用场景.c
+c:\users\高杰\source\repos\day4\day4\dm04_指针数组的应用场景.c(39): warning C4101: “a”: 未引用的局部变量
+c:\users\高杰\source\repos\day4\day4\dm04_指针数组的应用场景.c(93): warning C4101: “a”: 未引用的局部变量
+c:\users\高杰\source\repos\day4\day4\dm04_指针数组的应用场景.c(88): warning C4716: “main411”: 必须返回一个值
+  Day4.vcxproj -> C:\Users\高杰\source\repos\Day4\Debug\Day4.exe

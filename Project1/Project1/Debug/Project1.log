@@ -1,0 +1,17 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(11): warning C4033: “NewspitString3”必须返回值
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(25): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(26): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(54): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(55): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(84): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(85): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(135): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(136): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(168): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(169): warning C4090: “=”: 不同的“const”限定符
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(221): warning C4033: “getMem08”必须返回值
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(47): warning C4715: “NewspitString3”: 不是所有的控件路径都返回值
+c:\users\高杰\source\repos\project1\project1\day_03_dm08俩个辅助指针变量挖字符串测试框架搭建.c(228): warning C4715: “getMem08”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\高杰\source\repos\Project1\Debug\Project1.exe

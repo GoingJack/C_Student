@@ -1,0 +1,3 @@
+﻿  dm02_结构体的深copy和浅copy.c
+c:\users\高杰\source\repos\day5\day5\dm02_结构体的深copy和浅copy.c(15): warning C4101: “t2”: 未引用的局部变量
+  Day5.vcxproj -> C:\Users\高杰\source\repos\Day5\Debug\Day5.exe
