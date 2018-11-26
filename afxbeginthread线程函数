@@ -1,0 +1,43 @@
+#define  _CRT_SECURE_NO_WARNINGS 
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
+
+#include <afxwin.h>
+#define _AFXDLL
+UINT printhell(LPVOID p)
+{
+	while (1)
+	{
+		printf("hello\n");
+		Sleep(1000);
+	}
+	return 0;
+}
+UINT printhello(LPVOID p)
+{
+	while (1)
+	{
+		printf("world\n");
+		Sleep(5000);
+	}
+	return 0;
+}
+void main()
+{
+	AfxBeginThread(printhell,
+		NULL,
+		THREAD_PRIORITY_NORMAL,
+		0,
+		0,
+		NULL);
+	AfxBeginThread(printhello,
+		NULL,
+		THREAD_PRIORITY_NORMAL,
+		0,
+		0,
+		NULL);
+	printf("hello...\n");
+	system("pause");
+	return ;
+}
